@@ -45,3 +45,17 @@ body {
   .add-todo {
     margin: 10px 0px;
   }
+
+  .page-controller {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+  }
+  
+  .page-btn {
+    border: 0;
+    background: #333333;
+    color: #ffffff;
+    margin: 0 15px;
+  }
